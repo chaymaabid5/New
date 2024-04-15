@@ -1,8 +1,8 @@
-import web from "../images/web.jpg";
 import android from "../images/android.jpg";
+import web from "../images/web.jpg";
 // import digital from "../images/digital.jpg";
-import software from "../images/software.jpg";
 import marketing from "../images/marketing.jpg";
+import software from "../images/software.jpg";
 import fullstack from "../images/fullstack.jpg";
 
 const ServiceData = [
